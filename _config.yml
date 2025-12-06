@@ -4,7 +4,7 @@ theme: just-the-docs
 
 aux_links:
   "TechWorkshop Understanding Sentinel datalake and graph": 
-    - "https://github.com/microsoft/TWL300-Understanding-Sentinel-Datalake-and-Graph"
+    - "https://github.com/dmhelm/TWL300-Understanding-Sentinel-Datalake-and-Graph"
 
 callouts_level: quiet # or loud
 callouts:
